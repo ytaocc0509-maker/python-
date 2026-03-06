@@ -3,3 +3,5 @@ python01.py文件为202602_28-03_03天期间练习的python代码
 python02.py文件为202603_04天期间练习的python代码
 
 python03.py文件为202603_05天期间练习的python代码
+
+python04.py文件为202603_06天期间练习的python代码
